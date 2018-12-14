@@ -1,0 +1,15 @@
+C:\Users\Brian\Documents\GitHub\Uno\UNO\bin\Debug\UNO.exe.config
+C:\Users\Brian\Documents\GitHub\Uno\UNO\bin\Debug\UNO.exe
+C:\Users\Brian\Documents\GitHub\Uno\UNO\bin\Debug\UNO.pdb
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.csprojAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\MainWindow.g.cs
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\App.g.cs
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO_MarkupCompile.cache
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO_MarkupCompile.lref
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\MainWindow.baml
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.g.resources
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.Properties.Resources.resources
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.csproj.GenerateResource.cache
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.exe
+C:\Users\Brian\Documents\GitHub\Uno\UNO\obj\Debug\UNO.pdb
